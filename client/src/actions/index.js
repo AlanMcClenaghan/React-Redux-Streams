@@ -5,8 +5,8 @@ import {
   CREATE_STREAM,
   FETCH_STREAMS,
   FETCH_STREAM,
-  DELETE_STREAM,
-  EDIT_STREAM
+  EDIT_STREAM,
+  DELETE_STREAM
 } from './types';
 
 export const signIn = userId => {
